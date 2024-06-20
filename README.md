@@ -19,4 +19,4 @@ Su entrega debe contener:
 
   - y carpetas/archivos adicionales conteniendo  las plantillas o imágenes que han utilizado.
 
-* Un archivo README.md conteniendo una breve descripción de su proyecto 
+* Un archivo README.md con una breve descripción del proyecto que han desarrollado
