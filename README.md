@@ -21,3 +21,18 @@ Su entrega debe contener:
 
 * Un archivo README.md con una breve descripción del proyecto que han desarrollado.
 
+
+Para poder revisar su entrega deben seguir los siguiente pasos
+
+  - Ubicarse en el repositorio de su proyecto
+
+  - Clic en settings
+
+  - Clic en Collaborators
+
+  - Clic en Add people
+
+  - En Search by username escribir: FPCC-UNI
+
+  - Finalmente clic en invite collaborator
+
